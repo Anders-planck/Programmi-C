@@ -1,0 +1,6 @@
+La funzione seme verifica se esiiste almemo un elemento della lista L che appartiene a l albero T 
+In questa situazione ci sono 3 casi per individuare qual è il comportamento della complessita della funzione:
+ - il caso MIGLIORE : qua la complessita è asintotico a O(1) poiche la funzione seme esegue 1 solo paragone
+-Caso MEDIO: qua l uguaglianza fra gli elementi può essere ritrovata in mezzo agli elementi della lista o del albero  e dunque a questo punto la complessita sarà asintotica a O(N^2/2) visto che ha scorso la meta degli elementi della lista e la meta degli elementi dell albero
+-Caso PEGGIORE dove la nostra funzione scorre tutti gli elementi della lista e quegli dell albero trovando o no la l ugualianza all'ultimo confronto .A questo punto la complessita è asintotica a O(N^2)
+.

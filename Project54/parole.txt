@@ -1,0 +1,18 @@
+P:  anfora	S:  0	Pr:  10
+P:  anfora	S:  0	Pr:  5
+P:  anfora	S:  0	Pr:  4
+P:  anfora	S:  0	Pr:  8
+P:  anfora	S:  1	Pr:  9
+P:  anfora	S:  0	Pr:  8
+P:  anfora	S:  0	Pr:  9
+P:  anfora	S:  1	Pr:  4
+P:  anfora	S:  1	Pr:  4
+P:  anfora	S:  1	Pr:  1
+P:  anfora	S:  0	Pr:  5
+P:  anfora	S:  0	Pr:  5
+P:  anfora	S:  1	Pr:  4
+P:  anfora	S:  0	Pr:  4
+P:  anfora	S:  1	Pr:  6
+P:  anfora	S:  0	Pr:  1
+ il Numero di volte che è stato possibile contare anfora è:
+16

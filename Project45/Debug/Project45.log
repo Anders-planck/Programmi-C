@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\Anders\OneDrive\Bureau\programa c\Project45\main.c(28,26): warning C4101: 'b': variabile locale senza riferimenti
+C:\Users\Anders\OneDrive\Bureau\programa c\Project45\main.c(28,18): warning C4101: 'sr': variabile locale senza riferimenti
+C:\Users\Anders\OneDrive\Bureau\programa c\Project45\main.c(28,29): warning C4101: 'q': variabile locale senza riferimenti
+C:\Users\Anders\OneDrive\Bureau\programa c\Project45\main.c(28,22): warning C4101: 'tr': variabile locale senza riferimenti
+C:\Users\Anders\OneDrive\Bureau\programa c\Project45\main.c(28,6): warning C4101: 'ris': variabile locale senza riferimenti
+C:\Users\Anders\OneDrive\Bureau\programa c\Project45\main.c(7,6): warning C4101: 'f': variabile locale senza riferimenti
+C:\Users\Anders\OneDrive\Bureau\programa c\Project45\main.c(28,14): warning C4101: 'pr': variabile locale senza riferimenti
+C:\Users\Anders\OneDrive\Bureau\programa c\Project45\main.c(28,11): warning C4101: 'n': variabile locale senza riferimenti
+  Project45.vcxproj -> C:\Users\Anders\OneDrive\Bureau\programa c\Project45\Debug\Project45.exe

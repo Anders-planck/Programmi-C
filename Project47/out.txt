@@ -1,0 +1,4 @@
+		*********Stampa Alimenti Da Consegnare**********
+1***** Olio_vegetale  --  15 
+2***** Parmigiano  --  10 
+		**************FINE*************

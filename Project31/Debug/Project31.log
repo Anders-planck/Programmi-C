@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Anders\Desktop\programa c\Project31\main.c(22,6): warning C4101: 'i': variabile locale senza riferimenti
+C:\Users\Anders\Desktop\programa c\Project31\main.c(46,10): warning C4013: 'verifica' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\Anders\Desktop\programa c\Project31\main.c(55,29): warning C4020: 'lettura': troppi parametri effettivi
+C:\Users\Anders\Desktop\programa c\Project31\main.c(52,6): warning C4101: 'n': variabile locale senza riferimenti
+C:\Users\Anders\Desktop\programa c\Project31\main.c(55): error C4700: utilizzata variabile locale 'lezioni' non inizializzata

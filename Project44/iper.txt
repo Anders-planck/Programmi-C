@@ -1,0 +1,172 @@
+
+
+				***********LISTA IPER_CALORI***************
+
+
+1**** Anatra    --  227  Kcal*****  
+
+2**** Arachidi    --  571  Kcal*****  
+
+3**** Avocado    --  223  Kcal*****  
+
+4**** Baguette    --  270  Kcal*****  
+
+5**** Bel_Paese    --  374  Kcal*****  
+
+6**** Braciola_(carne_ovina)    --  348  Kcal*****  
+
+7**** Brie    --  315  Kcal*****  
+
+8**** Burro    --  754  Kcal*****  
+
+9**** Burro_fuso    --  900  Kcal*****  
+
+10**** Camembert    --  281  Kcal*****  
+
+11**** Ceci    --  275  Kcal*****  
+
+12**** Chicchi_di_mais    --  333  Kcal*****  
+
+13**** Coscia_(carne_ovina)    --  234  Kcal*****  
+
+14**** Coscia_(carne_suina)    --  274  Kcal*****  
+
+15**** Datteri_secchi    --  273  Kcal*****  
+
+16**** Emmental    --  387  Kcal*****  
+
+17**** Fagioli_bianchi    --  262  Kcal*****  
+
+18**** Farina_di_mais_integrale    --  333  Kcal*****  
+
+19**** Farro    --  320  Kcal*****  
+
+20**** Fecola_di_mais    --  346  Kcal*****  
+
+21**** Fecola_di_patate    --  336  Kcal*****  
+
+22**** Fico_secco    --  243  Kcal*****  
+
+23**** Fiocchi_di_avena    --  354  Kcal*****  
+
+24**** Fontina    --  329  Kcal*****  
+
+25**** Formaggio_di_Capra    --  355  Kcal*****  
+
+26**** Formaggio_fresco    --  253  Kcal*****  
+
+27**** Fruttosio    --  290  Kcal*****  
+
+28**** Gorgonzola    --  358  Kcal*****  
+
+29**** Gruviera    --  410  Kcal*****  
+
+30**** Lenticchie    --  310  Kcal*****  
+
+31**** Lingua_(carne_bovina)    --  209  Kcal*****  
+
+32**** Lingua_(carne_suina)    --  207  Kcal*****  
+
+33**** Macinato_(carne_bovina)    --  216  Kcal*****  
+
+34**** Macinato_(carne_suina)    --  271  Kcal*****  
+
+35**** Maionese    --  752  Kcal*****  
+
+36**** Mandorle    --  576  Kcal*****  
+
+37**** Margarina_vegetale    --  722  Kcal*****  
+
+38**** Mascarpone    --  460  Kcal*****  
+
+39**** Miele    --  325  Kcal*****  
+
+40**** Mortadella    --  345  Kcal*****  
+
+41**** Mozzarella_di_bufala    --  255  Kcal*****  
+
+42**** Mozzarella_di_mucca    --  225  Kcal*****  
+
+43**** Muesli    --  394  Kcal*****  
+
+44**** Nocciole    --  643  Kcal*****  
+
+45**** Noci    --  667  Kcal*****  
+
+46**** Oca    --  342  Kcal*****  
+
+47**** Olio_di_cocco    --  895  Kcal*****  
+
+48**** Olio_di_palma    --  894  Kcal*****  
+
+49**** Olio_vegetale    --  900  Kcal*****  
+
+50**** Olive_nere_in_salamoia    --  351  Kcal*****  
+
+51**** Pancetta    --  854  Kcal*****  
+
+52**** Pancetta_affumicata    --  621  Kcal*****  
+
+53**** Pane_bianco    --  238  Kcal*****  
+
+54**** Panna_dolce    --  293  Kcal*****  
+
+55**** Parmigiano    --  386  Kcal*****  
+
+56**** Pecorino_fresco    --  219  Kcal*****  
+
+57**** Petto_(carne_bovina)    --  244  Kcal*****  
+
+58**** Pinoli    --  674  Kcal*****  
+
+59**** Piselli    --  272  Kcal*****  
+
+60**** Pistacchio    --  598  Kcal*****  
+
+61**** Pollo_da_brodo    --  257  Kcal*****  
+
+62**** Polpa_di_cocco    --  369  Kcal*****  
+
+63**** Prosciutto_crudo    --  383  Kcal*****  
+
+64**** Provolone    --  365  Kcal*****  
+
+65**** Prugna_secca    --  236  Kcal*****  
+
+66**** Salami_di_manzo    --  232  Kcal*****  
+
+67**** Salmone    --  202  Kcal*****  
+
+68**** Salmone_affumicato    --  289  Kcal*****  
+
+69**** Salsiccia_di_maiale    --  298  Kcal*****  
+
+70**** Salsiccia_di_vitello    --  266  Kcal*****  
+
+71**** Sciroppo_d'acero    --  270  Kcal*****  
+
+72**** Semi_di_zucca    --  570  Kcal*****  
+
+73**** Semolino_di_grano    --  324  Kcal*****  
+
+74**** Soia    --  323  Kcal*****  
+
+75**** Spalla_(carne_suina)    --  271  Kcal*****  
+
+76**** Strutto_di_maiale    --  900  Kcal*****  
+
+77**** Tacchino_adulto    --  212  Kcal*****  
+
+78**** Tonno    --  226  Kcal*****  
+
+79**** Uva_secca    --  276  Kcal*****  
+
+80**** Vodka    --  222  Kcal*****  
+
+81**** Whisky    --  438  Kcal*****  
+
+82**** Wurstel    --  272  Kcal*****  
+
+83**** Zucchero_bianco    --  410  Kcal*****  
+
+La Media delle calori della lista e' 387.915649

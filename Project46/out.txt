@@ -1,0 +1,5 @@
+
+****************LISTA ALIMENTI DA CONSEGNARE*************
+************* Riso -------->  80  ordinati*************
+************* Parmigiano -------->  10  ordinati*************
+************* Olio_vegetale -------->  15  ordinati*************

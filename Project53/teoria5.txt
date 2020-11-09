@@ -1,0 +1,5 @@
+La funzione f5 paragona il suo parametro formale, il carattere i con ogni carattere presento nella lista L,
+dove restitiusce 1 nel caso di uguaglianza e 0 nel caso in cui il carattere i è inferiore a quegli della lista
+Nel caso in cui i a un valore maggiore rispetto a quegli della lista allora la nostra funzione dovrà percorrere tutta la lista fino al l uttimo elemento 
+E in questo caso  se premettiamo che la lista abbia N elementi allora la nostra funzione eseguirà esattamente N confronti dove ci ritroviamo Nel casa PEGGIORE  e la complessità asintotica sarà pari di consequenza a quella di O(N)
+ 

@@ -1,0 +1,3 @@
+﻿  funzioni.c
+C:\Users\Anders\Desktop\programa c\Project48\funzioni.c(116): warning C4715: 'maximo': non tutti i percorsi di controllo restituiscono un valore
+  Project48.vcxproj -> C:\Users\Anders\Desktop\programa c\Project48\Debug\Project48.exe

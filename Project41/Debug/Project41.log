@@ -1,0 +1,7 @@
+﻿  funzioni.c
+C:\Users\Anders\Desktop\programa c\Project41\funzioni.c(26,10): warning C4129: ' ': sequenza di caratteri di escape sconosciuta
+C:\Users\Anders\Desktop\programa c\Project41\funzioni.c(35,20): warning C4047: '=': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+C:\Users\Anders\Desktop\programa c\Project41\funzioni.c(42,22): warning C4047: '=': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+C:\Users\Anders\Desktop\programa c\Project41\funzioni.c(52,11): warning C4477: 'printf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int'
+C:\Users\Anders\Desktop\programa c\Project41\funzioni.c(85,23): warning C4047: '=': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+  Project41.vcxproj -> C:\Users\Anders\Desktop\programa c\Project41\Debug\Project41.exe

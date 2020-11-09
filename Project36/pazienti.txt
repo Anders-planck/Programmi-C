@@ -1,0 +1,10 @@
+Rossi 6.3 2.5
+Bianchi 7.1 3.3
+Rossi -5.7 12.4
+Bianchi 22.3 0.5
+Rossi -16.6 12.3
+Verdi 7.4 22.3
+Verdi 15.7 15.8
+Bianchi -7.4 -7.4
+Neri 22.4 -6.6
+Verdi -8.0 11.3

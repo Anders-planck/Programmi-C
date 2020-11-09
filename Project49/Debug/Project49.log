@@ -1,0 +1,7 @@
+﻿  funzioni.c
+C:\Users\Anders\Desktop\programa c\Project49\bibli.h(28,29): warning C4030: primo elenco di parametri formali più lungo del secondo elenco
+C:\Users\Anders\Desktop\programa c\Project49\bibli.h(28,29): warning C4028: parametro formale 1 differente dalla dichiarazione
+C:\Users\Anders\Desktop\programa c\Project49\bibli.h(28,29): warning C4028: parametro formale 2 differente dalla dichiarazione
+C:\Users\Anders\Desktop\programa c\Project49\bibli.h(28,29): warning C4273: 'qsort': collegamento dll non coerente
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_search.h(56,23): message : vedere la precedente definizione di 'qsort'
+  Project49.vcxproj -> C:\Users\Anders\Desktop\programa c\Project49\Debug\Project49.exe

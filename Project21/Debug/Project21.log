@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Anders\Desktop\programa c\Project21\main.c(23,6): warning C4101: 'i': variabile locale senza riferimenti
+  Project21.vcxproj -> C:\Users\Anders\Desktop\programa c\Project21\Debug\Project21.exe

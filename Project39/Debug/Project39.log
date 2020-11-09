@@ -1,0 +1,10 @@
+﻿  Origine.c
+C:\Users\Anders\Desktop\programa c\Project39\Origine.c(2,1): warning C4005: 'max': ridefinizione macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : vedere la precedente definizione di 'max'
+  funzioni.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289,1): warning C4005: 'max': ridefinizione macro
+C:\Users\Anders\Desktop\programa c\Project39\funzioni.c(1): message : vedere la precedente definizione di 'max'
+C:\Users\Anders\Desktop\programa c\Project39\funzioni.c(18,15): warning C4477: 'fscanf': con la stringa di formato '%d' è necessario un argomento di tipo 'int *', ma il tipo dell'argomento variadic 1 è 'char *'
+C:\Users\Anders\Desktop\programa c\Project39\funzioni.c(18,15): message : provare a usare '%hhd' nella stringa di formato
+  Generazione del codice in corso...
+  Project39.vcxproj -> C:\Users\Anders\Desktop\programa c\Project39\Debug\Project39.exe

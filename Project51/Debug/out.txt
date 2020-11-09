@@ -1,0 +1,15 @@
+	a >><>>>>>	ricurenza:	 3
+	abbondante >><>>>>>	ricurenza:	 1
+	acqua >><>>>>>	ricurenza:	 2
+	adagio >><>>>>>	ricurenza:	 1
+	aggiungere >><>>>>>	ricurenza:	 2
+	asciugare >><>>>>>	ricurenza:	 1
+	e >><>>>>>	ricurenza:	 4
+	eventualmente >><>>>>>	ricurenza:	 1
+	il >><>>>>>	ricurenza:	 2
+	imbiondito >><>>>>>	ricurenza:	 1
+	in >><>>>>>	ricurenza:	 3
+	ultimo >><>>>>>	ricurenza:	 1
+	un >><>>>>>	ricurenza:	 2
+	una >><>>>>>	ricurenza:	 2
+	unire >><>>>>>	ricurenza:	 1

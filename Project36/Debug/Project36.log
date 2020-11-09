@@ -1,0 +1,4 @@
+﻿  fonzioni.c
+C:\Users\Anders\Desktop\programa c\Project36\fonzioni.c(58,25): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Anders\Desktop\programa c\Project36\fonzioni.c(59,25): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Project36.vcxproj -> C:\Users\Anders\Desktop\programa c\Project36\Debug\Project36.exe

@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Anders\Desktop\programa c\Project7\main.c(8,1): warning C4005: 'max': ridefinizione macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : vedere la precedente definizione di 'max'
+C:\Users\Anders\Desktop\programa c\Project7\main.c(79,13): warning C4477: 'fscanf': con la stringa di formato '%d' è necessario un argomento di tipo 'int *', ma il tipo dell'argomento variadic 2 è 'char *'
+C:\Users\Anders\Desktop\programa c\Project7\main.c(79,13): message : provare a usare '%hhd' nella stringa di formato
+  Project7.vcxproj -> C:\Users\Anders\Desktop\programa c\Project7\Debug\Project7.exe

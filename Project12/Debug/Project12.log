@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Anders\Desktop\programa c\Project12\main.c(28,6): warning C4101: 'e': variabile locale senza riferimenti
+  Project12.vcxproj -> C:\Users\Anders\Desktop\programa c\Project12\Debug\Project12.exe

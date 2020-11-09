@@ -1,0 +1,6 @@
+sempre  : 1  volte
+siepe  : 1  volte
+tanta  : 1  volte
+ultimo  : 1  volte
+vento  : 1  volte
+voce  : 1  volte

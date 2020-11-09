@@ -1,0 +1,4 @@
+﻿  funzioni.c
+C:\Users\Anders\Desktop\programa c\Project38\funzioni.c(337): warning C4715: 'vota': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\Anders\Desktop\programa c\Project38\funzioni.c(366): warning C4715: 'stampa_e': non tutti i percorsi di controllo restituiscono un valore
+  Project38.vcxproj -> C:\Users\Anders\Desktop\programa c\Project38\Debug\Project38.exe

@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\Anders\Desktop\programa c\Project27\main.c(42,20): error C2231: '.nome': l'operando sinistro punta a 'struct'. Utilizzare '->'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(42,8): warning C4477: 'scanf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(44,20): error C2231: '.citp': l'operando sinistro punta a 'struct'. Utilizzare '->'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(44,8): warning C4477: 'scanf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(46,20): error C2231: '.cita': l'operando sinistro punta a 'struct'. Utilizzare '->'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(46,8): warning C4477: 'scanf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(48,22): error C2231: '.ora': l'operando sinistro punta a 'struct'. Utilizzare '->'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(48,16): error C2100: riferimento indiretto non valido
+C:\Users\Anders\Desktop\programa c\Project27\main.c(49,35): error C2231: '.nome': l'operando sinistro punta a 'struct'. Utilizzare '->'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(49,47): error C2231: '.citp': l'operando sinistro punta a 'struct'. Utilizzare '->'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(49,59): error C2231: '.cita': l'operando sinistro punta a 'struct'. Utilizzare '->'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(49,71): error C2231: '.ora': l'operando sinistro punta a 'struct'. Utilizzare '->'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(49,65): error C2100: riferimento indiretto non valido
+C:\Users\Anders\Desktop\programa c\Project27\main.c(49,9): warning C4477: 'printf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(49,9): warning C4477: 'printf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 2 è 'int'
+C:\Users\Anders\Desktop\programa c\Project27\main.c(49,9): warning C4477: 'printf': con la stringa di formato '%s' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 3 è 'int'

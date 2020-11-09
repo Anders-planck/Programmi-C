@@ -1,0 +1,19 @@
+﻿  funzioni.c
+C:\Users\Anders\Desktop\programa c\Project40\Intestazione.h(6,1): warning C4005: 'max': ridefinizione macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : vedere la precedente definizione di 'max'
+  lettura e stampa.c
+C:\Users\Anders\Desktop\programa c\Project40\Intestazione.h(6,1): warning C4005: 'max': ridefinizione macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : vedere la precedente definizione di 'max'
+C:\Users\Anders\Desktop\programa c\Project40\lettura e stampa.c(13,9): warning C4129: ' ': sequenza di caratteri di escape sconosciuta
+C:\Users\Anders\Desktop\programa c\Project40\lettura e stampa.c(14,9): warning C4129: ' ': sequenza di caratteri di escape sconosciuta
+C:\Users\Anders\Desktop\programa c\Project40\lettura e stampa.c(54,10): warning C4129: ' ': sequenza di caratteri di escape sconosciuta
+C:\Users\Anders\Desktop\programa c\Project40\lettura e stampa.c(62,10): warning C4129: ' ': sequenza di caratteri di escape sconosciuta
+  main.c
+C:\Users\Anders\Desktop\programa c\Project40\Intestazione.h(6,1): warning C4005: 'max': ridefinizione macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : vedere la precedente definizione di 'max'
+C:\Users\Anders\Desktop\programa c\Project40\main.c(22,17): warning C4133: 'funzione': tipi non compatibili. Da 'ricco [50]' a 'persona *'
+  verifiche.c
+C:\Users\Anders\Desktop\programa c\Project40\Intestazione.h(6,1): warning C4005: 'max': ridefinizione macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1289): message : vedere la precedente definizione di 'max'
+  Generazione del codice in corso...
+  Project40.vcxproj -> C:\Users\Anders\Desktop\programa c\Project40\Debug\Project40.exe

@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Anders\Desktop\programa c\Project22\main.c(23,6): warning C4101: 'i': variabile locale senza riferimenti
+  Project22.vcxproj -> C:\Users\Anders\Desktop\programa c\Project22\Debug\Project22.exe

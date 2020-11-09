@@ -1,0 +1,4 @@
+﻿  Origine.c
+C:\Users\Anders\Desktop\programa c\Project42\Origine.c(75,8): warning C4101: 'e': variabile locale senza riferimenti
+C:\Users\Anders\Desktop\programa c\Project42\Origine.c(75,6): warning C4101: 'c': variabile locale senza riferimenti
+  Project42.vcxproj -> C:\Users\Anders\Desktop\programa c\Project42\Debug\Project42.exe

@@ -1,0 +1,4 @@
+ viaggio 1 carico eccessivo: 5652
+ viaggio 3 carico eccessivo: 9240
+ viaggio 4 carico eccessivo: 7432
+ viaggio 5 carico eccessivo: 7988
